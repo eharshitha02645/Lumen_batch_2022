@@ -1,0 +1,4 @@
+//create an abstract class loan with an abstract method calculateInterest()
+//create subclass like housingLoan,jewel loan , personal loan
+//create a service named loan service with method printLoanDetails()
+//create a application class and test method service methods.
