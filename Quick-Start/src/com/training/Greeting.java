@@ -11,7 +11,9 @@ package com.training;
 
 public class Greeting {
 	public String getMessage() {
+		System.out.println("Hi Team");
 		return "Welcome to Java Programing";
+		
 	}
 	
 	public String getMessage(String name) {
