@@ -24,6 +24,7 @@ public class PersonalLoan extends Loan {
 		if(profession.equals("ITEmployee")) {
 			rateOfIntrest = 0.20;
 		}
+		System.out.println("I Am Rohit");
 		return getLoanAmount()*getTenure()*rateOfIntrest;
 
 	}
