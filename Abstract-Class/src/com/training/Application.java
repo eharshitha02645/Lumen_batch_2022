@@ -36,7 +36,7 @@ public class Application {
 		Loan[] loans = service.getAll();
 		
 		for(Loan eachLoan: loans) {
-			System.out.println("Intrest Amount:=" +eachLoan.calculateIntrest());
+			System.out.println("Intrest Amount:=" +eachLoan.calculateIntrest() +"Changes made by Avinash");
 		}
 	}
 
