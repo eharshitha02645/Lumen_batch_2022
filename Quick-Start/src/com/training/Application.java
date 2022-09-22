@@ -15,7 +15,7 @@ public class Application {
 		System.out.println(grtObj.getMessage());
 		
 		
-        String hello = grtObj.getMessage("nandini");
+        String hello = grtObj.getMessage("harshitha");
 		System.out.println(hello);
 		
 		
