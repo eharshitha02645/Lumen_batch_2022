@@ -10,9 +10,9 @@ package com.training;
 
 
 public class Greeting {
-	public String getMessage() {
-		return "nandini";
-	}
+//	public String getMessage() {
+//		return 
+//	}
 	
 	public String getMessage(String name) {
 		return "Hello " + name;

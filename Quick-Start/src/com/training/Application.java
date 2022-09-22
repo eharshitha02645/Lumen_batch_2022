@@ -10,10 +10,10 @@ public class Application {
 		
 		Greeting grtObj = new Greeting();
 		
-		String response = grtObj.getMessage();
-		System.out.println(response);
-		System.out.println(grtObj.getMessage());
-		
+//		String response = grtObj.getMessage();
+//		System.out.println(response);
+//		System.out.println(grtObj.getMessage());
+//		
 		
         String hello = grtObj.getMessage("harshitha");
 		System.out.println(hello);
