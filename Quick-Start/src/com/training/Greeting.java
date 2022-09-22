@@ -11,7 +11,7 @@ package com.training;
 
 public class Greeting {
 	public String getMessage() {
-		return "Welcome to Java Programing";
+		return "nandini";
 	}
 	
 	public String getMessage(String name) {
